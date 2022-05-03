@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z3cu6nH8lf9+c28dlLxgmvCP4ErYucqNC/HoUaKGq22DlKu9++x6VN9/BIGtdV5uNwVwBXaxLV7vbUQBg37X0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ricar\\source\\repos\\restaurant10ReservationSystem\\restaurant10ReservationSystem\\restaurant10ReservationSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ricar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\ricar\source\repos\restaurant10ReservationSystem\restaurant10ReservationSystem\bin\Debug\netcoreapp3.1\restaurant10ReservationSystem.exe
+C:\Users\ricar\source\repos\restaurant10ReservationSystem\restaurant10ReservationSystem\bin\Debug\netcoreapp3.1\restaurant10ReservationSystem.deps.json
+C:\Users\ricar\source\repos\restaurant10ReservationSystem\restaurant10ReservationSystem\bin\Debug\netcoreapp3.1\restaurant10ReservationSystem.runtimeconfig.json
+C:\Users\ricar\source\repos\restaurant10ReservationSystem\restaurant10ReservationSystem\bin\Debug\netcoreapp3.1\restaurant10ReservationSystem.runtimeconfig.dev.json
+C:\Users\ricar\source\repos\restaurant10ReservationSystem\restaurant10ReservationSystem\bin\Debug\netcoreapp3.1\restaurant10ReservationSystem.dll
+C:\Users\ricar\source\repos\restaurant10ReservationSystem\restaurant10ReservationSystem\bin\Debug\netcoreapp3.1\restaurant10ReservationSystem.pdb
+C:\Users\ricar\source\repos\restaurant10ReservationSystem\restaurant10ReservationSystem\obj\Debug\netcoreapp3.1\restaurant10ReservationSystem.csproj.AssemblyReference.cache
+C:\Users\ricar\source\repos\restaurant10ReservationSystem\restaurant10ReservationSystem\obj\Debug\netcoreapp3.1\restaurant10ReservationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\source\repos\restaurant10ReservationSystem\restaurant10ReservationSystem\obj\Debug\netcoreapp3.1\restaurant10ReservationSystem.AssemblyInfoInputs.cache
+C:\Users\ricar\source\repos\restaurant10ReservationSystem\restaurant10ReservationSystem\obj\Debug\netcoreapp3.1\restaurant10ReservationSystem.AssemblyInfo.cs
+C:\Users\ricar\source\repos\restaurant10ReservationSystem\restaurant10ReservationSystem\obj\Debug\netcoreapp3.1\restaurant10ReservationSystem.csproj.CoreCompileInputs.cache
+C:\Users\ricar\source\repos\restaurant10ReservationSystem\restaurant10ReservationSystem\obj\Debug\netcoreapp3.1\restaurant10ReservationSystem.dll
+C:\Users\ricar\source\repos\restaurant10ReservationSystem\restaurant10ReservationSystem\obj\Debug\netcoreapp3.1\restaurant10ReservationSystem.pdb
+C:\Users\ricar\source\repos\restaurant10ReservationSystem\restaurant10ReservationSystem\obj\Debug\netcoreapp3.1\restaurant10ReservationSystem.genruntimeconfig.cache
